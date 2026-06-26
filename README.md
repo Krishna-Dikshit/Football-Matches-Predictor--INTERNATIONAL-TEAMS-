@@ -100,10 +100,3 @@ This project uses a supervised classification approach.
 - Jupyter Notebook
 
 ---
-
-## 📷 Sample Visualizations
-
-(Add your plots here)
-
-```markdown
-![Match Results](images/match_results.png)
