@@ -1,0 +1,28 @@
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ========== Jupyter Notebook ==========
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========== VS Code ==========
+.vscode/
+
+# ========== OS Files ==========
+.DS_Store
+Thumbs.db
+
+# ========== Virtual Environment (VERY IMPORTANT) ==========
+venv/
+env/
+.venv/
+
+# ========== Logs ==========
+*.log
+
+# ========== Large or temporary data files (optional) ==========
+*.csv~
+*.tmp
